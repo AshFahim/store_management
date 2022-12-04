@@ -9,7 +9,8 @@
 }
 body
 {
-    background-color: #344a72;
+    /* background-color: #344a72; */
+    background-image: url("pos-system-for-retail-store-management.jpg");
 }
 nav{
   position: absolute;
