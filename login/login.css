@@ -13,6 +13,13 @@ body {
   
   .login-box {
     width: 360px;
+    height: 310px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+  }
+  .login-box2 {
+    width: 360px;
     height: 350px;
     margin: auto;
     border-radius: 3px;
