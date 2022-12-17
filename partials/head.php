@@ -6,7 +6,7 @@
      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
      <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
      <meta charset="UTF-8">
-	<title>OTOMS</title>
+	<title>STORE_MGMT</title>
 	<link rel="stylesheet" type="text/css" href="dashboard/style.css?v=0.0.0.2">
      <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
      <meta name="viewport" content="width=device-width, initial-scale=1.0">

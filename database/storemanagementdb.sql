@@ -118,10 +118,10 @@ VALUES ('ABC', 'abc@gmail.com', '1234'),
     ('XYZ', 'xyz@gmail.com', '1234'),
     ('PQR', 'pqr@gmail.com', '1234');
 INSERT INTO `customer` (`address`, `name`, `seller_id`)
-VALUES ('Dhaka', 'mila', '1'),
-    ('Dhaka', 'mitu', '2'),
-    ('Dhaka', 'maliha', '1'),
-    ('Dhaka', 'jamal', '3');
+VALUES ('Dhaka', 'fahim', '1'),
+    ('Dhaka', 'souvik', '2'),
+    ('Dhaka', 'rakib', '1'),
+    ('Dhaka', 'missal', '3');
 INSERT INTO `Customer_Phonenumbers` (`customer_id`, `phone_numbers`)
 VALUES ('1', '0177'),
     ('1', '0179'),
