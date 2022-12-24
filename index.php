@@ -26,7 +26,7 @@ if (isset($_GET['user_name'])) {
 		<input type="radio" name="acctype" id="manager" value="manager" class="acctype">
 		<label for="manager">Manager</label><br><br>
 
-		<label>User Name</label>
+		<label>User Email</label>
 		<input type="text" name="uname" placeholder="User Name"><br>
 
 		<label>Password</label>

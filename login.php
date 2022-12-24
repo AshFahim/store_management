@@ -23,7 +23,7 @@ if (isset($_POST['uname']) && isset($_POST['password'])) {
 		exit();
 	} else {
 		if ($_POST['acctype'] == "admin") {
-			if ($uname === "admin" && $pass === "adminlogin") {
+			if ($uname === "admin@gmail.com" && $pass === "adminlogin") {
 				$_SESSION['user_name'] = "admin";
 				$_SESSION['name'] = "admin";
 				$_SESSION['id'] = "admin";
